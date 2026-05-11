@@ -11,7 +11,7 @@ In addition to prediction, the project also provides personalized recommendation
 
 ---
 
-# 🎯 Objectives
+#  Objectives
 - Predict teen phone addiction levels using Machine Learning
 - Analyze behavioral and screen-time patterns
 - Provide corrective recommendations based on addiction level
@@ -20,17 +20,17 @@ In addition to prediction, the project also provides personalized recommendation
 
 ---
 
-# 🚀 Features
-✅ Predicts addiction level based on user behavior  
-✅ User-friendly input system  
-✅ Provides corrective suggestions  
-✅ Data preprocessing and visualization  
-✅ Machine Learning model training and evaluation  
-✅ Easy to modify and extend for future improvements  
+#  Features
+ Predicts addiction level based on user behavior  
+ User-friendly input system  
+ Provides corrective suggestions  
+ Data preprocessing and visualization  
+ Machine Learning model training and evaluation  
+ Easy to modify and extend for future improvements  
 
 ---
 
-# 🧠 Machine Learning Workflow
+#  Machine Learning Workflow
 
 1. Data Collection  
 2. Data Cleaning & Preprocessing  
@@ -42,7 +42,7 @@ In addition to prediction, the project also provides personalized recommendation
 
 ---
 
-# 📊 Parameters Used
+#  Parameters Used
 The model predicts addiction levels using parameters such as:
 
 - Daily screen time
@@ -55,7 +55,7 @@ The model predicts addiction levels using parameters such as:
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 - Python
 - Pandas
@@ -67,7 +67,7 @@ The model predicts addiction levels using parameters such as:
 
 ---
 
-# 📈 Output
+#  Output
 The system predicts:
 - Low Addiction
 - Moderate Addiction
@@ -78,7 +78,7 @@ It also suggests corrective measures such as:
 - Improving sleep schedule
 - Increasing outdoor activities
 - Limiting social media usage
-- Following digital detox routines
+
 
 ---
 
